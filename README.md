@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-sITvpr4x4i)
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://effulgent-brigadeiros-e3069d.netlify.app/)
 
 ## My process
 
