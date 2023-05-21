@@ -36,6 +36,7 @@ export const Sections = ({ img, title, paragraph, wave, index }) => {
         src={img} initial={{ opacity: 0, scale: 0.5 }}
         whileInView={{ opacity: 1, scale: 1 }}
         transition={{ duration: 1 }}
+        alt=''
       />
       <div className={dataClasses.containerData}>
         <h4 className={dataClasses.title}>{title}</h4>
